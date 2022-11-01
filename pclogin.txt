@@ -1,0 +1,4 @@
+REM Logs into pc
+DELAY 1000
+STRING password
+ENTER
